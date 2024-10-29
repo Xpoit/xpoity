@@ -7,7 +7,7 @@
 ## 🛠️ Installation
 ### With PyPI
 
-```pip install toutatis```
+```pip install xpoit```
 
 ### With Github
 
